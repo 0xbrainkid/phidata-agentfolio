@@ -1,0 +1,28 @@
+{
+  "name": "phidata-agentfolio",
+  "version": "1.0.0",
+  "description": "AgentFolio integration for Phidata — agent identity, trust scores, and marketplace access",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "phidata",
+    "agno",
+    "agentfolio",
+    "ai-agents",
+    "trust",
+    "identity",
+    "satp",
+    "solana",
+    "mcp"
+  ],
+  "author": "brainAI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brainAI-bot/phidata-agentfolio"
+  }
+}
